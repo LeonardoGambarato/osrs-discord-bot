@@ -181,4 +181,5 @@ if (interaction.isButton()) {
    LOGIN
 ========================= */
 
-client.login("MTQ1MDkwODMxMTc1ODMxMTUxNQ.GaW4Vi.jqXy5pEMyqSQWAhM70WlsuslZh4Z0_CUoCVNl0");
+
+client.login("example");
