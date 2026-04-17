@@ -73,7 +73,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/osrs-discord-system
+git clone https://github.com/leonardogambarato/osrs-discord-system
 
 # Install dependencies
 npm install
