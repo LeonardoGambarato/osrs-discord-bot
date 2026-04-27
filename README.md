@@ -24,7 +24,7 @@ Wallets and transaction records are stored relationally to guarantee consistency
 **Firebase for auxiliary storage**
 Used for fast-read operations that don't require relational integrity — configuration, catalog data, and session state.
 
-**TypeScript throughout**
+**JavaScript throughout**
 Strict typing across the entire codebase. Financial logic and pricing calculations are fully typed to catch errors at compile time rather than in production.
 
 **Modular command architecture**
@@ -37,7 +37,7 @@ Each Discord command is an isolated module with its own handler, validation, and
 | Layer | Technology |
 |---|---|
 | Runtime | Node.js |
-| Language | TypeScript |
+| Language | JavaScript |
 | Discord interface | Discord.js v14 |
 | Primary database | PostgreSQL |
 | Auxiliary storage | Firebase |
